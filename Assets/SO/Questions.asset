@@ -102,8 +102,17 @@ MonoBehaviour:
   - 4
   - 4
   - 4
-  Achievements_Index: 8
-  Achievements_String: []
+  Achievements_Index: 0
+  Achievements_String:
+  - First category finished!
+  - Second category finished!
+  - Third category finished!
+  - Fourth category finished!
+  - 10 right questions!
+  - 20 right questions!
+  - 30 right questions!
+  - 50 right questions!
+  - 20 wrong questions!
   SelectedCategorie: 2
   SelectedQuestion: 18
   questions:
@@ -363,8 +372,8 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 77d4558e5b9e1124dbce21d3a00ee886, type: 3}
   - {fileID: 21300000, guid: ca21eaf2fa9b29b4e83c0a64f3986085, type: 3}
   - {fileID: 21300000, guid: cfd28a5ddf775d142a0c37b95f1c7c94, type: 3}
-  TrueOnes: 00000000000000000100000000000000000000000000000000000000000000000000000000000100
-  SelectedOnes: 00000000000000000000000000000000000001000000000000000000000000000000000000000000
+  TrueOnes: 01010101010101010101010100000000000000000000000000000000000000000000000000000100
+  SelectedOnes: 00000000000000000000000000000000000000000000000000000000000000000000000000000000
   Categoriy1First: 0
   Categoriy1Last: 10
   Categoriy2First: 10
