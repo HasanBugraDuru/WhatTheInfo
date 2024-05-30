@@ -3,7 +3,9 @@ guid: 3b8a624f33c9ee8479f8c479dfb03ff3
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - questions: {fileID: 11400000, guid: bb15b5163fed7b74e88500be51571691, type: 2}
+  - panel: {instanceID: 0}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 

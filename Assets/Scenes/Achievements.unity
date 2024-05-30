@@ -419,7 +419,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3b8a624f33c9ee8479f8c479dfb03ff3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Index: 4
+  Index: 
   questions: {fileID: 11400000, guid: bb15b5163fed7b74e88500be51571691, type: 2}
   panel: {fileID: 1264614899}
 --- !u!1 &253618988
@@ -881,7 +881,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3b8a624f33c9ee8479f8c479dfb03ff3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Index: 3
+  Index: 
   questions: {fileID: 11400000, guid: bb15b5163fed7b74e88500be51571691, type: 2}
   panel: {fileID: 1264614899}
 --- !u!1 &550401000
@@ -936,7 +936,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3b8a624f33c9ee8479f8c479dfb03ff3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Index: 3
+  Index: 
   questions: {fileID: 0}
   panel: {fileID: 1264614899}
 --- !u!114 &550401003
@@ -1329,7 +1329,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3b8a624f33c9ee8479f8c479dfb03ff3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Index: 3
+  Index: 
   questions: {fileID: 11400000, guid: bb15b5163fed7b74e88500be51571691, type: 2}
   panel: {fileID: 1264614899}
 --- !u!1 &677938948
@@ -1478,7 +1478,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3b8a624f33c9ee8479f8c479dfb03ff3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Index: 3
+  Index: 
   questions: {fileID: 11400000, guid: bb15b5163fed7b74e88500be51571691, type: 2}
   panel: {fileID: 1264614899}
 --- !u!1 &708288917
@@ -1763,7 +1763,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3b8a624f33c9ee8479f8c479dfb03ff3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Index: 3
+  Index: 
   questions: {fileID: 11400000, guid: bb15b5163fed7b74e88500be51571691, type: 2}
   panel: {fileID: 1264614899}
 --- !u!1 &906069688
@@ -1987,7 +1987,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3b8a624f33c9ee8479f8c479dfb03ff3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Index: 3
+  Index: 
   questions: {fileID: 11400000, guid: bb15b5163fed7b74e88500be51571691, type: 2}
   panel: {fileID: 1264614899}
 --- !u!1 &1032078747
@@ -2136,7 +2136,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3b8a624f33c9ee8479f8c479dfb03ff3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Index: 3
+  Index: 
   questions: {fileID: 11400000, guid: bb15b5163fed7b74e88500be51571691, type: 2}
   panel: {fileID: 1264614899}
 --- !u!1 &1067476997
@@ -2604,7 +2604,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3b8a624f33c9ee8479f8c479dfb03ff3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Index: 3
+  Index: 
   questions: {fileID: 11400000, guid: bb15b5163fed7b74e88500be51571691, type: 2}
   panel: {fileID: 1264614899}
 --- !u!1 &1413773535
@@ -3381,7 +3381,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3b8a624f33c9ee8479f8c479dfb03ff3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Index: 3
+  Index: 
   questions: {fileID: 11400000, guid: bb15b5163fed7b74e88500be51571691, type: 2}
   panel: {fileID: 1264614899}
 --- !u!1 &1965741798

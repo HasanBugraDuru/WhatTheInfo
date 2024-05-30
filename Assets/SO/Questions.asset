@@ -102,8 +102,10 @@ MonoBehaviour:
   - 4
   - 4
   - 4
-  SelectedCategorie: 1
-  SelectedQuestion: 6
+  Achievements_Index: 8
+  Achievements_String: []
+  SelectedCategorie: 2
+  SelectedQuestion: 18
   questions:
   - In which region are tuna eyeballs commonly consumed ?
   - In which region is spam a popular food item?
@@ -362,7 +364,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: ca21eaf2fa9b29b4e83c0a64f3986085, type: 3}
   - {fileID: 21300000, guid: cfd28a5ddf775d142a0c37b95f1c7c94, type: 3}
   TrueOnes: 00000000000000000100000000000000000000000000000000000000000000000000000000000100
-  SelectedOnes: 00000000000000000000000000000000000000000000000000000000000000000000000000000000
+  SelectedOnes: 00000000000000000000000000000000000001000000000000000000000000000000000000000000
   Categoriy1First: 0
   Categoriy1Last: 10
   Categoriy2First: 10
