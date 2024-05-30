@@ -6,9 +6,6 @@ using UnityEngine;
 public class PlayerDatas :  ScriptableObject
 {
     [Header("Config")]
-    [SerializeField] float TrueNumber;
-    [SerializeField] float FalseNumber;
-    [SerializeField] string PlayerName;
-
-    public float PlayTime;
-}
+    [SerializeField] public bool MusicOn;
+    [SerializeField] public int PlayTime;
+ }
