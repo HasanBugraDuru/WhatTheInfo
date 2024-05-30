@@ -70,7 +70,6 @@ public class QuestionManager : MonoBehaviour
         }
 
         image.sprite = questions.Sprites[Selected];
-        image.SetNativeSize();
         button1.text = GetOp();
         button2.text = GetOp();
         button3.text = GetOp();  
