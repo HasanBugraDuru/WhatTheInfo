@@ -82,28 +82,67 @@ MonoBehaviour:
     for others.
   - "It\u2019s because, in South Korea, red pen is used to write the name of the
     dead people."
+  - "\"Taumatawhakatangihangakoauauotamateapokaiwhenuakitanatahu\", often shortened
+    to \"Taumata,\" is a hill in New Zealand with the longest place name in the world.
+    The name is 85 characters long and tells the story of Tamatea, a M\u0101ori explorer. "
+  - '"Batman", a city in Turkey, was named after the nearby Batman River. At once,
+    mayor of the Batman attempted to sue Warner Bros. over the use of its name in
+    the Batman movies, but the case was dismissed though. '
+  - '"Lolland", a Danish island, is home to the Fuglsang Kunstmuseum, an art museum
+    housed in a converted dairy farm.'
+  - '"Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch," often abbreviated
+    as "Llanfair PG," is a village in Wales, famous for having the longest place
+    name in the United Kingdom. Its name translates to "St Mary''s Church in the
+    hollow of the white hazel near a rapid whirlpool and the Church of St. Tysilio
+    of the red cave." '
+  - '"Middelfart"  is not only known for its picturesque waterfront and charming
+    atmosphere but also for its humorous name. In Danish, "fart" means "speed" or
+    "rate," so the name "Middelfart" translates to "middle passage" or "middle way."  '
+  - '"Saint-Louis-du-Ha! Ha!" is a town in Quebec, Canada, renowned for having the
+    distinction of being the only town in the world with two exclamation marks in
+    its name. The quirky name originated from an exclamation of surprise and laughter
+    in French.  '
+  - '"Pee Pee Township" is a rural area known for its serene countryside and historical
+    significance. It''s a reminder that sometimes, even the most peculiar names have
+    rich stories and character behind them. '
+  - '"Maeklong Market" in Thailand has a train track running through it, making for
+    a fascinating sight as vendors quickly move their goods when the train passes.'
   - 3
   - 3
-  - 3
-  - 3
-  - 3
-  - 3
-  - 3
-  - 3
-  - 3
-  - 3
-  - 4
-  - 4
-  - 4
-  - 4
-  - 4
-  - 4
-  - 4
-  - 4
-  - 4
-  - 4
-  SelectedCategorie: 1
-  SelectedQuestion: 6
+  - Did you know that in French, the phrase 'chanter en yaourt' literally translates
+    to 'singing in yogurt'? It's a whimsical way to describe singing made-up words
+    or sounds when you don't know the lyrics to a song. So, next time you find yourself
+    improvising during karaoke, you can impress your friends with this delightful
+    French expression!
+  - In Swedish, the term 'linslus' translates to 'lens louse,' referring to someone
+    who always seeks to be in front of the camera, soaking up the spotlight. So,
+    if you know a 'linslus,' you've probably got a friend who's always camera-ready!
+  - 'In Italian, the word ''slmapadato'' humorously describes ''the nice orange glow
+    that comes from being addicted to tanning salons.'' So, if you spot someone with
+    a perpetual tan, you might say they have a ''slmapadato'' look! '
+  - 'In Dutch, the word ''hehe'' is used to express ''a sigh of relief at the end
+    of a long day.'' It''s the perfect term for that feeling of relaxation when you
+    finally get to unwind after a busy day! '
+  - In German, the word 'Schadenfreude' means the feeling of joy or pleasure one
+    experiences when seeing another person fail or suffer misfortune. It's a unique
+    term that captures a complex mix of emotions.
+  - 'In Dutch, the word ''feestvarken'' literally translates to ''party pig'' and
+    refers to someone in whose honor a party is thrown. So, the next time you''re
+    the guest of honor, you can proudly call yourself the ''feestvarken''! '
+  - 'In German, the word ''Fernweh'' describes the feeling of being homesick for
+    a place you have never been to. It''s a beautiful term that captures a deep longing
+    for distant, unexplored destinations. '
+  - In German, the word 'Backpfeifengesicht' humorously describes a 'face badly in
+    need of a fist.' It's a vivid and colorful term used to describe someone who
+    looks particularly punchable!
+  - ' In Yiddish, the word ''shlimazl'' refers to a chronically unlucky person. It''s
+    often used to describe someone who seems to have perpetual bad luck no matter
+    what they do! '
+  - In Czech, the word 'prozvonit' describes the act of calling a mobile phone and
+    letting it ring just once so the other person will call back, saving the caller
+    from spending money on minutes. It's a clever way to save on phone bills!
+  SelectedCategorie: 2
+  SelectedQuestion: 17
   questions:
   - In which region are tuna eyeballs commonly consumed ?
   - In which region is spam a popular food item?
@@ -127,14 +166,17 @@ MonoBehaviour:
   - In which country it is forbidden to pull over due to running out of gas?
   - In which country it is forbidden to splashing over the pedestrians?
   - In which country it is forbidden to use red ink?
-  - ad
-  - ad
-  - ad
-  - ad
-  - ad
-  - ad
-  - ad
-  - ad
+  - Where is the hill named " Taumatawhakatangihangakoauauotamateapokaiwhenuakitanatahu"
+    located?
+  - 'Where is the city named "Batman" located? '
+  - Where is the island named "Lolland" located?
+  - Where is the village named "Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch"
+    located?
+  - Where is the town named "Middelfart" located?
+  - 'Where is the town with the most exclamation marks in its name, "Saint-Louis-du-Ha!
+    Ha!" ? '
+  - Where is the town named "Pee Pee" located?
+  - 'Where is "Maeklong Market", the market with a train running through it? '
   - ad
   - ad
   - In which language this word means "to sing made-up words or sounds when you don't
@@ -177,14 +219,14 @@ MonoBehaviour:
   - Germany
   - Japan
   - South Korea
-  - op
-  - op
-  - op
-  - op
-  - op
-  - op
-  - op
-  - op
+  - New Zealand
+  - Turkey
+  - Denmark
+  - Wales
+  - Denmark
+  - Canada
+  - USA
+  - Thailand
   - op
   - op
   - French
@@ -208,36 +250,36 @@ MonoBehaviour:
   - Morocco
   - India
   - Australia
+  - Denmark
+  - Germany
+  - France
+  - USA
+  - Thailand
+  - Turkey
+  - UK
+  - Brazil
+  - UK
+  - Japan
+  - Morocco
+  - Ireland
+  - Latvia
+  - Colombia
+  - Scotland
+  - Iceland
+  - Lithuania
+  - Cambodia
   - Option2
   - Option2
-  - Option2
-  - Option2
-  - Option2
-  - Option2
-  - Option2
-  - Option2
-  - Option2
-  - Option2
-  - Option2
-  - Option2
-  - Option2
-  - Option2
-  - Option2
-  - Option2
-  - Option2
-  - Option2
-  - Option2
-  - Option2
-  - Option2
-  - Option2
-  - Option2
-  - Option2
-  - Option2
-  - Option2
-  - Option2
-  - Option2
-  - Option2
-  - Option2
+  - German
+  - Turkish
+  - Russian
+  - Ukranian
+  - Spanish
+  - German
+  - Dutch
+  - French
+  - Turkish
+  - Serbian
   OP3:
   - Brazil
   - India
@@ -249,36 +291,36 @@ MonoBehaviour:
   - Japan
   - Thailand
   - Canada
+  - France
+  - Greece
+  - Canada
+  - Switzerland
+  - Sweden
+  - South Korea
+  - Greece
+  - Spain
+  - Netherlands
+  - Japan
+  - Italy
+  - Portugal
+  - Canada
+  - USA
+  - UK
+  - Spain
+  - South Korea
+  - Nepal
   - opti3
   - opti3
-  - opti3
-  - opti3
-  - opti3
-  - opti3
-  - opti3
-  - opti3
-  - opti3
-  - opti3
-  - opti3
-  - opti3
-  - opti3
-  - opti3
-  - opti3
-  - opti3
-  - opti3
-  - opti3
-  - opti3
-  - opti3
-  - opti3
-  - opti3
-  - opti3
-  - opti3
-  - opti3
-  - opti3
-  - opti3
-  - opti3
-  - opti3
-  - opti3
+  - Serbian
+  - Irish
+  - Norwegian
+  - Icelandic
+  - Polish
+  - Polish
+  - Hungarian
+  - Danish
+  - Catalan
+  - Slovak
   OP4:
   - South Korea
   - Australia
@@ -290,36 +332,36 @@ MonoBehaviour:
   - Brazil
   - South Africa
   - South America
+  - Italy
+  - Ukraine
+  - Turkey
+  - Portugal
+  - Morocco
+  - South Africa
+  - Russia
+  - Ukraine
+  - China
+  - Russia
+  - Sweden
+  - Ukraine
+  - Turkey
+  - Hungary
+  - Bulgaria
+  - Algeria
+  - Hungary
+  - Albenia
+  - 
   - ooptinal4
-  - ooptinal4
-  - ooptinal4
-  - ooptinal4
-  - ooptinal4
-  - ooptinal4
-  - ooptinal4
-  - ooptinal4
-  - ooptinal4
-  - ooptinal4
-  - ooptinal4
-  - ooptinal4
-  - ooptinal4
-  - ooptinal4
-  - ooptinal4
-  - ooptinal4
-  - ooptinal4
-  - ooptinal4
-  - ooptinal4
-  - ooptinal4
-  - ooptinal4
-  - ooptinal4
-  - ooptinal4
-  - ooptinal4
-  - ooptinal4
-  - ooptinal4
-  - ooptinal4
-  - ooptinal4
-  - ooptinal4
-  - ooptinal4
+  - Portuguese
+  - Greek
+  - Greek
+  - Armenian
+  - Bulgarian
+  - Yiddish
+  - Croatian
+  - Persian
+  - Albenian
+  - Lithuanian
   Sprites:
   - {fileID: 21300000, guid: 4df2a838f8c745b4e8cdb3e73a40d9a0, type: 3}
   - {fileID: 21300000, guid: 992521333efd63c43869a7656c6ea051, type: 3}
@@ -341,16 +383,16 @@ MonoBehaviour:
   - {fileID: 21300000, guid: d11be38c5066c1847ab286a1fc18ab6f, type: 3}
   - {fileID: 21300000, guid: 465a7ee0c2751a84d9931de93a074ca4, type: 3}
   - {fileID: 21300000, guid: d8d41ce88014ba1419177d83ae78b907, type: 3}
+  - {fileID: 21300000, guid: a7dd903e1ab6b824f92f414f59bc1a6c, type: 3}
+  - {fileID: 21300000, guid: 1d1b589b34e69a947aebc4c4451925ec, type: 3}
+  - {fileID: 21300000, guid: 634f89f3425053549960bb6b105380b2, type: 3}
+  - {fileID: 21300000, guid: 89d5af567a9150c4aa1fa3cf762883bb, type: 3}
+  - {fileID: 21300000, guid: 163969a34f2da7046a74daf815dc1678, type: 3}
+  - {fileID: 21300000, guid: 94bd7a841e9154542ad4e642d4d0181b, type: 3}
+  - {fileID: 21300000, guid: 563a44aa1d4de984285d34c90854d125, type: 3}
+  - {fileID: 21300000, guid: c40dae0a7cba3334bbd0f615cee8fd9d, type: 3}
   - {fileID: 21300000, guid: 5f3b8f51c2fac104681fbf743ccd1fa2, type: 3}
-  - {fileID: 21300000, guid: 59e2b923662cdab4f95c3de8e9b6f23c, type: 3}
-  - {fileID: 21300000, guid: 27367319bf899e44595bef42c5ae7adb, type: 3}
-  - {fileID: 21300000, guid: 27367319bf899e44595bef42c5ae7adb, type: 3}
-  - {fileID: 21300000, guid: 27367319bf899e44595bef42c5ae7adb, type: 3}
-  - {fileID: 21300000, guid: 27367319bf899e44595bef42c5ae7adb, type: 3}
-  - {fileID: 21300000, guid: 27367319bf899e44595bef42c5ae7adb, type: 3}
-  - {fileID: 21300000, guid: 27367319bf899e44595bef42c5ae7adb, type: 3}
-  - {fileID: 21300000, guid: 27367319bf899e44595bef42c5ae7adb, type: 3}
-  - {fileID: 21300000, guid: 27367319bf899e44595bef42c5ae7adb, type: 3}
+  - {fileID: 0}
   - {fileID: 21300000, guid: fccf3733a022b834bbb806b7062d6b2f, type: 3}
   - {fileID: 21300000, guid: 2b33c666af31bd440a6b8214b143216d, type: 3}
   - {fileID: 21300000, guid: 999f54c951f3339429573e17195cdc06, type: 3}
@@ -361,13 +403,13 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 77d4558e5b9e1124dbce21d3a00ee886, type: 3}
   - {fileID: 21300000, guid: ca21eaf2fa9b29b4e83c0a64f3986085, type: 3}
   - {fileID: 21300000, guid: cfd28a5ddf775d142a0c37b95f1c7c94, type: 3}
-  TrueOnes: 00000000000000000100000000000000000000000000000000000000000000000000000000000100
+  TrueOnes: 00010000000000000100000000000000000000000001000000010100000000000000000000000100
   SelectedOnes: 00000000000000000000000000000000000000000000000000000000000000000000000000000000
   Categoriy1First: 0
   Categoriy1Last: 10
   Categoriy2First: 10
   Categoriy2Last: 20
   Categoriy3First: 20
-  Categoriy3Last: 30
+  Categoriy3Last: 28
   Categoriy4First: 30
   Categoriy4Last: 40

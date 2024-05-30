@@ -1459,6 +1459,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   panel: {fileID: 674374675}
+  FunfactCategori: 0
+  questions: {fileID: 11400000, guid: bb15b5163fed7b74e88500be51571691, type: 2}
+  nextButton: {fileID: 0}
 --- !u!1 &1280461704
 GameObject:
   m_ObjectHideFlags: 0
@@ -1512,6 +1515,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   panel: {fileID: 674374675}
+  FunfactCategori: 0
+  questions: {fileID: 0}
+  nextButton: {fileID: 0}
 --- !u!114 &1280461707
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1754,6 +1760,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   panel: {fileID: 0}
+  FunfactCategori: 0
+  questions: {fileID: 0}
+  nextButton: {fileID: 0}
 --- !u!1 &1354997368
 GameObject:
   m_ObjectHideFlags: 0
