@@ -12,6 +12,7 @@ public class MusicButton : MonoBehaviour
     private void Start()
     {
        image = GetComponent<Image>();
+        playerDatas.MusicOn = true;
     }
     public void Music()
     {
